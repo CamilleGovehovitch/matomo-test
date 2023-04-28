@@ -1,0 +1,14 @@
+.main-container {
+  padding: 10px 40px;
+  display: flex;
+}
+.sub-container {
+  width: 50%;
+}
+.button-container {
+  text-align: right;
+}
+.displayer {
+  font-size: 20px;
+  color: red;
+}
