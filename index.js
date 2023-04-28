@@ -7,3 +7,8 @@ function addClinknumber(display) {
   display.innerText = clickCount;
   // displayClickNumber.innerText = clickCount;
 }
+function resetClicknumber(display) {
+  clickCount = 0;
+  display.innerText = clickCount;
+  // displayClickNumber.innerText = clickCount;
+}
